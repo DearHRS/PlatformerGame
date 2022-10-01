@@ -1,3 +1,0 @@
-D:\Dummy folder\college\semester3.second\ТРПО\kursacha\GameHere\Platformer\Debug\Platformer.exe
-D:\Студенты\ПО-416\Сингх\курсовая\курса\Platformer\Debug\Platformer.exe
-D:\Студенты\ПО-416\Сингх\курсовая\курса\Platformer\Debug\Platformer.pdb
