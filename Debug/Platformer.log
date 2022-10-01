@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Dummy folder\college\semester3.second\ТРПО\kursacha\GameHere\Platformer\main.cpp(22,57): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Dummy folder\college\semester3.second\ТРПО\kursacha\GameHere\Platformer\main.cpp(22,44): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Platformer.vcxproj -> D:\Dummy folder\college\semester3.second\ТРПО\kursacha\GameHere\Platformer\Debug\Platformer.exe
